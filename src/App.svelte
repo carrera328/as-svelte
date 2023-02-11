@@ -14,8 +14,7 @@
     console.log('search event', event);
   }
 
-  
-
+    
 </script>
 
 <main>
