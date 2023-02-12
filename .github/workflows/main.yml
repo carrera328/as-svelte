@@ -22,7 +22,7 @@ jobs:
           node-version: '18.x'
       - run: git config user.email "carrera.328@gmail.com"
       - run: git config user.name "Sal Carrera"
-      - run: git config user.passwore "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"
+      - run: git config user.password "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"
       - run: npm install
       - run: npm run build --if-present
       - run: npm run deploy
