@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   import svelteLogo from './assets/svelte.svg'
   import Counter from './lib/Counter.svelte'
 
@@ -22,5 +22,6 @@
   <button data-id="btn" on:click={handleClick}>Fuck Camille Jackson</button>
   <input on:keydown={handleChange} type='search'/>
   <h1>Hello World</h1>
-</main>
+</main> -->
 
+<h1>Hello World</h1>
